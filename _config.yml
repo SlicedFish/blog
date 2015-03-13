@@ -5,7 +5,7 @@ url: "https://rfurman.github.io/type-theme"
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
+  title: Slicedfish
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "Slicedfish descroption" # used by search engines
