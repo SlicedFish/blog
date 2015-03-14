@@ -1,20 +1,20 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://rfurman.github.io/type-theme"
+baseurl: "/"
+url: "http://slicedfish.com/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
   title: Slicedfish
-  avatar: avatar.png
+  avatar: fish-sice.png
   gravatar: # Email MD5 hash
-  description: "Slicedfish descroption" # used by search engines
+  description: "Slicedfish description" # used by search engines
   
   # Header and footer text
   header_text: >
      <p>The best thing since the loaves and fishes story</p>
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+   Powered by love and red bull
   
   # Icons
   rss: false
