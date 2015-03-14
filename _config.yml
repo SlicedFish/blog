@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/"
+baseurl: ""
 url: "http://slicedfish.com/"
 
 # THEME-SPECIFIC CONFIGURATION
