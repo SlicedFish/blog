@@ -7,7 +7,7 @@ Dear fellow Kaggle Competitor,
 
 *Want to have your solution count and at the same time help save lives by contributing to effective altruism??*
 
-If so, we'd like to invite you to join a cooperative effort using ensemble methods for the Diabetic Retinopathy competition ending on Monday and help win a prize that would be donated to Charity. [Ensemble methods][0] have proven time and again to win machine learning competitions and by pooling as many teams as possible, we greatly increase our chances of winning. If we do win, it will be announced at the [Effective Altruism Global][1] summit next week, and proper credit will be given to everyone who contributes.
+If so, we'd like to invite you to join a cooperative effort using ensemble methods for the Diabetic Retinopathy competition ending on Monday and the Avito Context Ad Clicks context ending on Tuesdayand help win a prize that would be donated to Charity. [Ensemble methods][0] have proven time and again to win machine learning competitions and by pooling as many teams as possible, we greatly increase our chances of winning. If we do win, it will be announced at the [Effective Altruism Global][1] summit next week, and proper credit will be given to everyone who contributes. 
 
 Kaggle's rules on sharing code and data privately are strict. However they do allow for all such data to be shared publicly and made available to all contestants. With this in mind, if you are interested please pay attention to the following:
 
@@ -17,7 +17,7 @@ Kaggle's rules on sharing code and data privately are strict. However they do al
 
 We encourage you to also read up on [Effective Alturism][2], "a philosophy and social movement that applies evidence and reason to determine the most effective ways to improve the world".  Any prize money won will be donated to charities recommended by [The Life You Can Save][3] and [Give Well][4]. We are happy to hear about any other requests or suggestions.
 
-As a last comment, by pooling our solutions together we will also be able to provide a much higher quality solution to the California Healthcare Foundation instead of them just having access to the top few. 
+As a last comment, by pooling our solutions together we will also be able to provide a much higher quality solution to the California Healthcare Foundation instead of them just having access to the top few. We also look forward to future cooperative efforts for Kaggle and we will be updating this blog periodically. 
 
 Please feel free to contact us with any questions.  
 
