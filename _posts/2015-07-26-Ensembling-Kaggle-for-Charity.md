@@ -21,6 +21,7 @@ As a last comment, by pooling our solutions together we will also be able to pro
 Please feel free to contact us with any questions.  
 
 Ralph Furmaniak: rfurman@stanford.edu
+
 Lalit Jain: jain@math.wisc.edu
 
 [0]: https://en.wikipedia.org/wiki/Ensemble_learning
