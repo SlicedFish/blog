@@ -7,7 +7,7 @@ Dear fellow Kaggle Competitor,
 
 *Want to have your solution count and at the same time help save lives by contributing to effective altruism??*
 
-If so, we'd like to invite you to join a cooperative effort using ensemble methods for the Diabetic Retinopathy competition ending on Monday and the Avito Context Ad Clicks context ending on Tuesdayand help win a prize that would be donated to Charity. [Ensemble methods][0] have proven time and again to win machine learning competitions and by pooling as many teams as possible, we greatly increase our chances of winning. If we do win, it will be announced at the [Effective Altruism Global][1] summit next week, and proper credit will be given to everyone who contributes. 
+If so, we'd like to invite you to join a cooperative effort using ensemble methods for the Diabetic Retinopathy competition ending on Monday and the Avito Context Ad Clicks context ending on Tuesday and help win a prize that would be donated to Charity. [Ensemble methods][0] have proven time and again to win machine learning competitions and by pooling as many teams as possible, we greatly increase our chances of winning. If we do win, it will be announced at the [Effective Altruism Global][1] summit next week, and proper credit will be given to everyone who contributes. 
 
 Kaggle's rules on sharing code and data privately are strict. However they do allow for all such data to be shared publicly and made available to all contestants. With this in mind, if you are interested please pay attention to the following:
 
