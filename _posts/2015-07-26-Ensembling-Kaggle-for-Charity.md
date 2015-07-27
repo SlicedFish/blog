@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Ensembling Kaggle for Charity
+excerpt: Join a cooperative effort to ensemble Kaggle solutions. All winnings will be denoted to charity. 
 ---
 Dear fellow Kaggle Competitor,
 
-*Want to have your solution count and at the same time help save lies by contributing to effective altruism??*
+*Want to have your solution count and at the same time help save lives by contributing to effective altruism??*
 
 If so, we'd like to invite you to join a cooperative effort using ensemble methods for the Diabetic Retinopathy competition ending on Monday and help win a prize that would be donated to Charity. [Ensemble methods][0] have proven time and again to win machine learning competitions and by pooling as many teams as possible, we greatly increase our chances of winning. If we do win, it will be announced at the [Effective Altruism Global][1] summit next week, and proper credit will be given to everyone who contributes.
 
