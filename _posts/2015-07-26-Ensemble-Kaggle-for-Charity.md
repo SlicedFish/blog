@@ -3,6 +3,8 @@ layout: post
 title: Ensembling Kaggle for Charity
 excerpt: Join a cooperative effort to ensemble Kaggle solutions. All winnings will be denoted to charity. 
 ---
+([Main Post in Kaggle forums][5])
+
 Dear fellow Kaggle Competitor,
 
 *Want to have your solution count and at the same time help save lives by contributing to effective altruism??*
@@ -30,4 +32,4 @@ Lalit Jain: jain@math.wisc.edu
 [2]: http://www.effectivealtruism.org/
 [3]: http://www.thelifeyoucansave.org/
 [4]: http://www.givewell.org/charities/top-charities
-
+[5]: https://www.kaggle.com/c/diabetic-retinopathy-detection/forums/t/15566/ensembling-kaggle-for-charity
